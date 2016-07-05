@@ -54,6 +54,9 @@ https://github.com/michaeldegroot/electron-react-password-manager/issues
 
 ## > Showcase
 
-![](http://i.imgur.com/yJsAW7u.png)
-![](http://i.imgur.com/x87128U.png)
-![](http://i.imgur.com/GECgz3D.png)
+![](http://i.imgur.com/2mVoPyr.png)
+![](http://i.imgur.com/9IR9LLG.png)
+![](http://i.imgur.com/2TJMRMx.png)
+![](http://i.imgur.com/m0BNBv4.png)
+![](http://i.imgur.com/5cHCXIO.png)
+![](http://i.imgur.com/81aZUIA.gif)
