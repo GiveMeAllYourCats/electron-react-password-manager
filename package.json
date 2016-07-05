@@ -1,6 +1,7 @@
 {
   "name": "PassApp-Container",
   "main": "gulpfile.js",
+  "version": "0.2.4",
   "repository": {
     "type": "git",
     "url": "git+https://michaeldegroot@bitbucket.org/michaeldegroot/passapp.git"
@@ -11,14 +12,28 @@
     "Password",
     "Storage"
   ],
+  "directories": {
+    "output": "./build/",
+    "app": "./"
+  },
+  "build": {
+    "app-bundle-id": "your.id",
+    "app-category-type": "your.app.category.type",
+    "win": {
+      "iconUrl": "./src/inc/img/logo.ico"
+    }
+  },
   "author": "michaeldegroot",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.9.0",
     "babel-loader": "^6.2.4",
     "babel-preset-react": "^6.5.0",
+    "electron-builder": "^5.10.5",
     "electron-prebuilt": "^1.1.1",
     "electron-windows-installer": "^1.4.1",
+    "grunt": "^1.0.1",
+    "grunt-electron-installer": "^2.1.0",
     "gulp": "^3.9.1",
     "gulp-atom": "^0.1.0",
     "gulp-callback": "0.0.3",

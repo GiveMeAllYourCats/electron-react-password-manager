@@ -27,6 +27,7 @@
     "react-dom": "^15.1.0"
   },
   "dependencies": {
+    "archiver": "^1.0.0",
     "async": "^2.0.0-rc.5",
     "electron-connect": "^0.4.2",
     "electron-notification-shim": "^1.1.0",
@@ -39,6 +40,7 @@
     "gulp-ignore": "^2.0.1",
     "gulp-minify-css": "^1.2.4",
     "gulp-util": "^3.0.7",
+    "inflight": "^1.0.5",
     "macaddress": "^0.2.8",
     "machine-uuid": "^1.0.7",
     "moment": "^2.13.0",
